@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAPA Actividad 11</string>
+    <string name="create">Crear</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="precio">Precio</string>
+    <string name="search">Buscar</string>
+    <string name="codigo_identificador">Codigo Identificador</string>
+</resources>
